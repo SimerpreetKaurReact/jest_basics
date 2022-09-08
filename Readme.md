@@ -8,5 +8,3 @@ A tool for simulating (rendering) our react app/componenets: RTL
 3. Assert:Compare execution results with the expected results
 
 //react hook testing library extension
-https://www.youtube.com/watch?v=BB-CnTQO3SM
-https://www.youtube.com/watch?v=puBcoFBnibA
